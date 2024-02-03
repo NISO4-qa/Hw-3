@@ -8,4 +8,4 @@
  
 ![alt text](mem-2-1024x683.webp)
 
-theme: jekyll-theme-architect
+
